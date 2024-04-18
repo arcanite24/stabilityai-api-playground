@@ -4,10 +4,12 @@ This Streamlit application allows users to generate images using the Stability A
 
 This project is heavily based on [sd3-streamlit](https://github.com/Doriandarko/sd3-streamlit) by [Pietro Schirano](https://github.com/Doriandarko) ⭐
 
+![Screenshot](./resources/ss.png)
+
 ## Features
 
-- **Text-to-Image**: Generate images from textual descriptions.
-- **Image-to-Image**: Modify uploaded images based on textual prompts and selected strength settings.
+- **Text-to-Image**: Use SD3 and Stable Core to generate images from textual descriptions.
+- **Image-to-Image**: Use SD3 and Stable Core to modify uploaded images based on textual prompts and selected strength settings.
 
 ## Installation
 
